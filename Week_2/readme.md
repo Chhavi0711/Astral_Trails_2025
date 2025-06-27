@@ -1,5 +1,5 @@
 ## Sessions
-Sessions were conducted to understand Python libraries and usage of OpenCV to do image processing.
+Sessions focused on understanding Python libraries and applying OpenCV for image processing, accompanied by quizzes as part of the assignment.
 
 ### Study Links
 https://colab.research.google.com/drive/1-RssIW8rdyAn05q3LzX81gvUqQ9mtAUr?usp=sharing
