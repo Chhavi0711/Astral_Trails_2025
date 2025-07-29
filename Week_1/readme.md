@@ -1,5 +1,5 @@
 ## Sessions
-In Week 1, we started with a foundational overview of astronomy through an "Astronomy 101" session, followed by a night sky observation session. We also introduced the mentees to cosmic rays and their significance, and explored the fundamental concepts related to the universe's evolution.experience
+In Week 1, we started with a foundational overview of astronomy through an "Astronomy 101" session, followed by a night sky observation session. We also introduced the mentees to cosmic rays and their significance, and explored the fundamental concepts related to the universe's evolution.
 
 ### Study links:
 https://sciencenotes.org/cosmic-rays-explained/
